@@ -1,0 +1,2 @@
+context_length_k,ttft_avg_s,ttft_std_s,ttft_min_s,ttft_max_s,prefill_avg_toks_per_s,prefill_std_toks_per_s,prefill_min_toks_per_s,prefill_max_toks_per_s,decoding_avg_toks_per_s,decoding_std_toks_per_s,decoding_min_toks_per_s,decoding_max_toks_per_s
+1,2.73510288,0.04270534096349538,2.66562048,2.813076992,324.73686162448695,5.051604260914121,315.6685730697555,333.13069383380486,10.543854241178487,0.007654810870935783,10.534976649224257,10.552993757693132
